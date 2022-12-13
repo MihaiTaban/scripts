@@ -20,7 +20,7 @@ fi
 curl "https://ro.wttr.in/$location?1"
 
 if [[ $? = 0  ]]; then
-	echo "Curl a esuat"
+	echo "Curl a esuat si te rup"
 	exit 4
 fi
 
