@@ -60,7 +60,7 @@ Hello world!
 ---
 ### **Advantages compared to other languages**
 
-|**Feature**      |**golang**        |**python**              |
+|**Feature**        |**golang**        |**python**              |
 |*OOP?*             |No                |Yes                     |
 |*Exceptions*       |No                |Yes                     |
 |*Interface support*|Yes               |No                      |
