@@ -1,11 +1,11 @@
 &copy;
-#  !!! Info taken from (https://developer.fedoraproject.org/tech/languages/go/go-installation.html)
+#### !!! Info taken from (https://developer.fedoraproject.org/tech/languages/go/go-installation.html)
 &copy;
 
 
 ---
 ---
-###### *GO language on Fedora*
+#** *GO language on Fedora* **
 ---
 ---
 ### **What is GO?**
@@ -61,13 +61,9 @@ Hello world!
 ### **Advantages compared to other languages**
 
 |**Feature**      |**golang**        |**python**              |
-|-----------------|------------------|------------------------|
-|OOP?             |No                |Yes                     |
-|-----------------|------------------|------------------------|
-|Exceptions       |No                |Yes                     |
-|-----------------|------------------|------------------------|
-|Interface support|Yes               |No                      |
-|-----------------|------------------|------------------------|
-|Purpose of use   |System Programming|Computer & data analysis|
+|*OOP?*             |No                |Yes                     |
+|*Exceptions*       |No                |Yes                     |
+|*Interface support*|Yes               |No                      |
+|*Purpose of use*   |System Programming|Computer & data analysis|
 
 ---
