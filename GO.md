@@ -5,7 +5,7 @@
 
 ---
 ---
-#** *GO language on Fedora* **
+# *GO language on Fedora* 
 ---
 ---
 ### **What is GO?**
@@ -61,6 +61,7 @@ Hello world!
 ### **Advantages compared to other languages**
 
 |**Feature**        |**golang**        |**python**              |
+|-------------------|------------------|------------------------|
 |*OOP?*             |No                |Yes                     |
 |*Exceptions*       |No                |Yes                     |
 |*Interface support*|Yes               |No                      |
